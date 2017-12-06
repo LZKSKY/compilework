@@ -1,0 +1,5 @@
+﻿  getgra.cpp
+c:\vsprogram\compilework\compilework\getgra.cpp(432): warning C4018: '<': signed/unsigned mismatch
+c:\vsprogram\compilework\compilework\getgra.cpp(141): warning C4715: 'main_procedure': not all control paths return a value
+  compilework.vcxproj -> C:\vsprogram\compilework\Debug\compilework.exe
+  compilework.vcxproj -> C:\vsprogram\compilework\Debug\compilework.pdb (Partial PDB)

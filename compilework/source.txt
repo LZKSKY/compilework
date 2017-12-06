@@ -1,0 +1,6 @@
+const a=35,b=49;
+var c,d,e;
+procedure p;
+var g;
+;
+while a>=b do a :=b
